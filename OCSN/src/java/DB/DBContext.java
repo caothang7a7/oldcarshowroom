@@ -27,6 +27,7 @@ public class DBContext {
             //Gay ra SQLException
             throw new SQLException(ex.getMessage());
             //dsfdsfdsfsdfsdfdsf
+            //fsdfsdfsdfsdfsdfsdfsdfsdf
         }
         return con;
     }
