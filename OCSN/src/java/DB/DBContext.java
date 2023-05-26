@@ -26,6 +26,7 @@ public class DBContext {
             ex.printStackTrace();
             //Gay ra SQLException
             throw new SQLException(ex.getMessage());
+            //dsfdsfdsfsdfsdfdsf
         }
         return con;
     }
